@@ -9,4 +9,4 @@
    - BOOTSTRAP
    - JAVA SCRIPT
     
-<b>Live Link : </b><a href="https://admiring-euclid-dd016d.netlify.app/">https://admiring-euclid-dd016d.netlify.app/</a>
+<b>Live Link : </b><a target="_blank" href="https://admiring-euclid-dd016d.netlify.app/">https://admiring-euclid-dd016d.netlify.app/</a>
